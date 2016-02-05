@@ -1,5 +1,5 @@
 # NCOC-Scripting
 
-Feel free to add a new features
+Feel free to edit
 
 VBS script files
